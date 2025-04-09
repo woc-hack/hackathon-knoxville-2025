@@ -3,6 +3,10 @@
 The hackathon will be held in Knoxville, TN, USA, and online from
 May 12 to May 14, 2025.
 
+# If it is your first time
+
+Please go over [tutorial](https://github.com/woc-hack/tutorial)
+
 ## Travel
 
 If needed, reasonable travel expenses (per NSF requirements) will be
