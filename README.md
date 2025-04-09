@@ -3,12 +3,26 @@
 The hackathon will be held in Knoxville, TN, USA, and online from
 May 12 to May 14, 2025.
 
+## Travel
+
+If needed, reasonable travel expenses (per NSF requirements) will be
+reimbursed. E.g., hotel can not exceed 150% CONUS rates for
+Knoxville (i.e., total amount charged including taxes/fees); economy
+airfare; up to one travel day before and after the hackathon. If you
+need help with hotel reservations for UTK rates, please contact 
+- Contact email for Cumberland House would be utkreservations@gmail.com contact Tyler Canup
+- Contact email for Crown Plaza would be JJulius@crownknow.com contact Jamie Julius 
+Funds are limited, please let me know if you will need reimbursement
+and an approximate amount as the budget for this event is limited.
 
 ## Potential Projects
 - [Improve Deverloper Aliasing](https://github.com/woc-hack/fingerprinting)
 - [Impact of LLMs on productivity](https://github.com/woc-hack/llmprod)
 - [Other topics](https://github.com/woc-hack/)
 
+If I have not heard from you, please suggest two project ideas of
+interest to you, so that we can prepare better and form teams in
+advance, please email them to audris@utk.edu.
 
 ## Useful links
 - [Hackathon Discord server](TBD)
