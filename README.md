@@ -58,7 +58,7 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 | | 03:30pm | MK 435 | Break | |
 | | 04:00pm | MK 435 ([Zoom](https://bit.ly/woc2025zoom)) | Checkpoint | Teams report progress, obstacles, and plans until the final presentation |
 | | 04:30pm | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2025zoom)) | Working time | |
-| November 19 | 09:00am | MK 435 | Breakfast | |
+| May 14 | 09:00am | MK 435 | Breakfast | |
 | | 09:30am | MK 435 ([Zoom](https://bit.ly/woc2025zoom)) | Roll-call | Intro for the day |
 | | 09:45am | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2025zoom)) | Working time | |
 | | 11:30pm | MK 435 | Break | |
