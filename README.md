@@ -13,10 +13,9 @@ If needed, reasonable travel expenses (per NSF requirements) will be
 reimbursed. E.g., hotel can not exceed 150% CONUS rates for
 Knoxville (i.e., total amount charged including taxes/fees); economy
 airfare; up to one travel day before and after the hackathon. If you
-need help with hotel reservations for UTK rates, please contact 
-- Contact email for Cumberland House would be utkreservations@gmail.com contact Tyler Canup
-- Contact email for Crown Plaza would be JJulius@crownknow.com contact Jamie Julius 
-Funds are limited, please let me know if you will need reimbursement
+need to get UTK contract rates for the hotel reservations, please send me the dates 
+for the nights you will be staying at Cumberland House or Crown Plaza. I will send the 
+list to our administrators. Funds are limited, please let me know if you will need reimbursement
 and an approximate amount as the budget for this event is limited.
 
 ## Potential Projects
