@@ -1,4 +1,4 @@
-# World of Code hackathon 2024
+# World of Code hackathon 2025
 
 The hackathon will be held in Knoxville, TN, USA, and online from
 May 12 to May 14, 2025.
