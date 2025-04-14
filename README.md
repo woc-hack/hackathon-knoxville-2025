@@ -31,7 +31,7 @@ advance, please email them to audris@utk.edu.
 - [Hackathon Discord server](TBD)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-knoxville-2025/issues)
 - [Project report template](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/project_template.md)
-- [Submitted ideas](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/ideas.md), [Prior hackathon projects](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/prior_projects.md)
+- [Submitted ideas](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/ideas.md), [Prior hackathon projects](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/prior_projects.md)
 - Location: [Min Kao Electrical Engineering and Computer Science Building, 1520 Middle Dr, Knoxville, TN 37996, USA](https://maps.app.goo.gl/TvFNNs8CaDxmqRbx8)
 - [Hackathon Zoom](TBD)
 - [Slide deck](https://docs.google.com/presentation/d/15K9um7ka-JdyOIVtp80myF-cwSdvTbql/edit?usp=sharing&ouid=109244461377084520186&rtpof=true&sd=true) - important links are on Slide 3
@@ -67,7 +67,7 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 ## Hackathon Organizer Contacts
 * Audris Mockus (audris@utk.edu)
 * Jim Herbsleb (jim.herbsleb@gmail.com)
-* Alexander Nolte (alexander.nolte@ut.ee)
+* Alexander Nolte (a.u.nolte@tue.nl)
 
 ## References
 - [Github hackathon central](https://github.com/woc-hack)
