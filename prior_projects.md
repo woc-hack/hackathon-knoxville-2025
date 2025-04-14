@@ -31,9 +31,9 @@
 - Dopamine - Effect of Hacktoberfest on attracting newcomers to OSS ([Github repo](https://github.com/woc-hack/dopamine))
 - Vulcan - Name-based gender identification ([Github repo](https://github.com/woc-hack/Vulcan))
 
-## Knoxville 2023 (Nov 17-19, 2023)
+## Knoxville and online 2023 (November 17 to 19, 2023)
 
-- lcs - Mapping all licences to known license types (published in MSR'25)
-- code-heimer - Scientific software corpus using using WoC Data and AI/LLM (published in FSE'25)
-- project-to-map - to classify projects for if they are part of an organization or not
-- OSS4SG-WoC-Explorer - facilitate the exploration of Open Source Software for Social Good (OSS4SG) projects on GitHub using the WoC
+- LCS - Mapping all licences to known license types ([Github repo](https://github.com/woc-hack/lcs), [Paper](https://arxiv.org/abs/2409.04824))
+- Code-heimer - Creating a corpus of corpus of open-source scientific software ([Github repo](https://github.com/woc-hack/code-heimer), Paper to appear in FSE'25)
+- Project-to-map - Automatically mapping the organizational structure of open-source projects ([Github repo](https://github.com/woc-hack/project-to-map))
+- OSS4SG-WoC-Explorer - Facilitate the exploration of Open Source Software for Social Good (OSS4SG) projects on GitHub using WoC
