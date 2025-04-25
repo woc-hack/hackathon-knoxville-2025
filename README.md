@@ -13,13 +13,15 @@ If needed, reasonable travel expenses (per NSF requirements) will be
 reimbursed. E.g., hotel can not exceed 150% CONUS rates for
 Knoxville (i.e., total amount charged including taxes/fees); economy
 airfare; up to one travel day before and after the hackathon. If you
-need to get UTK contract rates for the hotel reservations, please send me the dates 
-for the nights you will be staying at Cumberland House or Crown Plaza. I will send the 
+need to get UTK contract rates for the hotel reservations, please send me the dates
+for the nights you will be staying at Cumberland House or Crown Plaza. I will send the
 list to our administrators. Funds are limited, please let me know if you will need reimbursement
 and an approximate amount as the budget for this event is limited.
 
 ## Potential Projects
-- [Improve Deverloper Aliasing](https://github.com/woc-hack/fingerprinting)
+- [Improve Deverloper Aliasing (be more lenient within projects, be more restrictive across projects)](https://github.com/woc-hack/fingerprinting)
+- [Identify commits of outdated branches and hidden branches (e.g., unmerged pull requests, squash-merged commits, etc.)](https://github.com/woc-hack/hidden-branches)
+- [Identify files that have never been changed](https://github.com/woc-hack/unchanged-files)
 - [Impact of LLMs on productivity](https://github.com/woc-hack/llmprod)
 - [Other topics](https://github.com/woc-hack/)
 
