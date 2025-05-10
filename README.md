@@ -35,7 +35,7 @@ advance, please email them to audris@utk.edu.
 - [Project report template](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/project_template.md)
 - [Submitted ideas](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/ideas.md), [Prior hackathon projects](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/prior_projects.md)
 - Location: [Min Kao Electrical Engineering and Computer Science Building, 1520 Middle Dr, Knoxville, TN 37996, USA](https://maps.app.goo.gl/TvFNNs8CaDxmqRbx8)
-- [Hackathon Zoom](TBD)
+- [Hackathon Zoom](https://tinyurl.com/woc2025zoom)
 - [Slide deck](https://docs.google.com/presentation/d/15K9um7ka-JdyOIVtp80myF-cwSdvTbql/edit?usp=sharing&ouid=109244461377084520186&rtpof=true&sd=true) - important links are on Slide 3
 
 ## Hackathon Schedule
