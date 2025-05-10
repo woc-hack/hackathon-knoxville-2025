@@ -45,25 +45,27 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 | Date | Time | Location | Topic | Content |
 | --- | --- | --- | --- | --- |
 | May 12 | 05:00pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Kick-off | Opening ceremony <br/> Schedule <br/> Logistics |
-| | 05:45pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Idea pitches | Participants pitch ideas they submitted during registration or new ideas they come up with on the spot |
-| | 06:15pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Break / Voting | Participants vote on their favorite ideas |
-| | 06:45pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Team formation | Most voted ideas get the chance to form teams |
-| | 08:30pm | [TBD](https://maps.app.goo.gl/owqcnLPyV4XVZkms8), TBD Dinner | Sharing project ideas and networking |
-| May 13 | 09:00am | MK 354 | Breakfast | |
-| | 09:30am | MK 435 ([Zoom](https://bit.ly/woc2025zoom)) | Roll-call | Intro for the day |
-| | 09:45am | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Team formation finalization | |
-| | 10:30am | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Team presentation | Teams present themselves (name, members, ...), their idea, and their plans until the first checkpoint |
-| | 11:00am | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Working time | |
-| | 12:30pm | MK 354 | Lunch | |
+| | 05:10pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Idea pitches | Participants pitch ideas they submitted during registration or new ideas they come up with on the spot |
+| | 06:45pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Team formation | Time to finalize the teams based on shared interests |
+| | 07:15pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Updates on current WoC status | Latest data, new version number conventions, web site, etc  |
+| | 08:30pm | [Vida](https://g.co/kgs/5GBN81X), Dinner at Vida | Sharing project ideas and networking |
+| May 13 | 09:00am | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Breakfast | |
+| | 09:00am | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Roll-call | Intro for the day |
+| | 09:30am | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Team formation finalization | |
+| | 09:45am | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Team presentation | Teams present themselves (name, members, ...), their idea, and their plans until the first checkpoint |
+| | 10:30am | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Working time | |
+| | 12:30pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom))  | Lunch | Working lunch |
 | | 01:30pm | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Working time | |
 | | 03:30pm | MK 435 | Break | |
 | | 04:00pm | MK 435 ([Zoom](https://bit.ly/woc2025zoom)) | Checkpoint | Teams report progress, obstacles, and plans until the final presentation |
 | | 04:30pm | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Working time | |
+| | 07:00pm | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Time to revisit obstacles change of plans | |
+| | 08:00pm | [JC Holdway](https://g.co/kgs/PL3WfyA), Dinner in JC Holdway | Sharing project ideas and networking |
 | May 14 | 09:00am | MK 354 | Breakfast | |
 | | 09:30am | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Roll-call | Intro for the day |
 | | 09:45am | MK 121A, MK 121B, MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Working time | |
 | | 11:30pm | MK 354 | Break | |
-| | 12:00pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Final presentations, closing, and [survey](https://bit.ly/woc2025survey) | Teams present what they have done, which obstacles they faced, and their future plans |
+| | 12:00pm | MK 354 ([Zoom](https://bit.ly/woc2025zoom)) | Final presentations and closing | Teams present what they have done, which obstacles they faced, and their future plans |
 | | 01:00pm | MK 354 | Lunch | |
 
 ## Hackathon Organizer Contacts
