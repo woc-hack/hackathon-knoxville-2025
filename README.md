@@ -30,7 +30,7 @@ interest to you, so that we can prepare better and form teams in
 advance, please email them to audris@utk.edu.
 
 ## Useful links
-- [Hackathon Discord server](TBD)
+- [Hackathon Discord server](https://discord.gg/96e9KTBmrK)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-knoxville-2025/issues)
 - [Project report template](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/project_template.md)
 - [Submitted ideas](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/ideas.md), [Prior hackathon projects](https://github.com/woc-hack/hackathon-knoxville-2025/blob/main/prior_projects.md)
