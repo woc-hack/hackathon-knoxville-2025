@@ -64,6 +64,7 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 | May 14 | 09:00am | MK 354 | Breakfast | |
 | | 09:30am | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Roll-call | Intro for the day |
 | | 09:45am | MK 121A, MK 121B, MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Working time | |
+| | 11:15am | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | [Online Survey](https://forms.gle/UicGS42Lt4S1PfA4A) |
 | | 11:30pm | MK 354 | Break | |
 | | 12:00pm | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Final presentations and closing | Teams present what they have done, which obstacles they faced, and their future plans |
 | | 01:00pm | MK 354 | Lunch | |
