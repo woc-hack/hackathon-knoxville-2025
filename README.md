@@ -44,8 +44,9 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 
 | Date | Time | Location | Topic | Content |
 | --- | --- | --- | --- | --- |
-| May 11 | 09:00am - 4PM|  | Preparatory discussions for early arrivals |  |
-| May 12 | 05:00pm | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Kick-off | Opening ceremony <br/> Schedule <br/> Logistics |
+| May 11 | 09:00am - 4PM|  | | Preparatory discussions for early-arrival participants |
+| May 12 | 09:00am - 4PM|  | | Refining the topics | 
+| | 05:00pm | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Kick-off | Opening ceremony <br/> Schedule <br/> Logistics |
 | | 05:10pm | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Idea pitches | Participants pitch ideas they submitted during registration or new ideas they come up with on the spot |
 | | 06:45pm | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Team formation | Time to finalize the teams based on shared interests |
 | | 07:15pm | MK 354 ([Zoom](https://tinyurl.com/woc2025zoom)) | Updates on current WoC status | Latest data, new version number conventions, web site, etc  |
