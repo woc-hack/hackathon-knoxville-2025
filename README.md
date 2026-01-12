@@ -1,3 +1,7 @@
+# WoC Registration
+
+To access WoC servers [please register here](https://docs.google.com/forms/d/1quBIozLEP-ApaTaREr5FIu0HhOKAc4A4WkQngmW8L2g/edit)
+
 # World of Code hackathon 2025
 
 The hackathon will be held in Knoxville, TN, USA, and online from
